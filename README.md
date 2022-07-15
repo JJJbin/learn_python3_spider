@@ -109,25 +109,6 @@ peace.
 - [python教程资源](https://wistbean.github.io/categories/python/)
 - [吐血分享这两个爬虫用到的 Chrome 牛逼插件](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484859&amp;idx=1&amp;sn=b5f91ab1dc027d06e34dea1b37091b34&amp;chksm=fc8bbd2acbfc343ce3123fb3e3aec1fa1e34c96b15e998a34e01a75f4ca90b0089e1692f5a31&amp;scene=27#wechat_redirect) 
 
-## 公众号获取 Python 相关帅书
-
-微信搜索id：fxxkpython
-名称：小帅b和他的朋友们
-
-<a href="https://fxxkpython.com"><img src="https://user-images.githubusercontent.com/11805948/156555426-44ad6d54-4b9b-47bb-b6c9-44b0f7a0609b.JPG" align="left" height="250" width="250"></a>
-
-
-*进去发送「帅书」即可领取。*
-
-
-## Python 视频号
-
-
-<a href="https://fxxkpython.com"><img src="https://user-images.githubusercontent.com/11805948/148672594-3beb1694-e4d8-4d50-bc30-db0495379ea3.JPG" align="left" height="250" width="250"></a>
-
-## 通往Python高手之路
-小帅b手把手带你：[通往Python高手之路](http://vip.fxxkpython.com/?page_id=18)
-
 
 
 
